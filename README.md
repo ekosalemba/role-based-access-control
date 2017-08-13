@@ -6,7 +6,6 @@ Credit
 *******************
 - HMVC Module ( https://bitbucket.org/wiredesignz/codeigniter-modular-extensions-hmvc/downloads )
 - AdminLTE ( https://adminlte.io/ )
-- Public Data from forlap.dikti.go.id
 - Workshop CI 01 - Web Application Development ( https://github.com/muharihar/workshop-ci-01 ) - https://www.linkedin.com/in/muharihar/
 
 ###################
