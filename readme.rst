@@ -1,5 +1,4 @@
-# role-based-access-control
-Role Based Access Control
+# Role Based Access Control
 
 *******************
 Credit
@@ -8,8 +7,9 @@ Credit
 - AdminLTE ( https://adminlte.io/ )
 - Workshop CI 01 - Web Application Development ( https://github.com/muharihar/workshop-ci-01 ) - https://www.linkedin.com/in/muharihar/
 
+
 ###################
-About CodeIgniter
+What is CodeIgniter
 ###################
 
 CodeIgniter is an Application Development Framework - a toolkit - for people
@@ -26,7 +26,7 @@ Release Information
 
 This repo contains in-development code for future releases. To download the
 latest stable release please visit the `CodeIgniter Downloads
-<http://www.codeigniter.com/download>`_ page.
+<https://codeigniter.com/download>`_ page.
 
 **************************
 Changelog and New Features
@@ -39,9 +39,9 @@ guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide
 Server Requirements
 *******************
 
-PHP version 5.4 or newer is recommended.
+PHP version 5.6 or newer is recommended.
 
-It should work on 5.2.4 as well, but we strongly advise you NOT to run
+It should work on 5.3.7 as well, but we strongly advise you NOT to run
 such old versions of PHP, because of potential security and performance
 issues, as well as missing features.
 
@@ -49,7 +49,7 @@ issues, as well as missing features.
 Installation
 ************
 
-Please see the `installation section <http://www.codeigniter.com/user_guide/installation/index.html>`_
+Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
 of the CodeIgniter User Guide.
 
 *******
@@ -63,13 +63,14 @@ agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/so
 Resources
 *********
 
--  `User Guide <http://www.codeigniter.com/docs>`_
+-  `User Guide <https://codeigniter.com/docs>`_
 -  `Language File Translations <https://github.com/bcit-ci/codeigniter3-translations>`_
 -  `Community Forums <http://forum.codeigniter.com/>`_
 -  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
--  `Community IRC <http://www.codeigniter.com/irc>`_
+-  `Community IRC <https://webchat.freenode.net/?channels=%23codeigniter>`_
 
-Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_, thank you.
+Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_
+or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
 
 ***************
 Acknowledgement
